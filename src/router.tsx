@@ -13,7 +13,7 @@ import RecipiePage from "./components/RecipiePage";
 
 const router = createBrowserRouter([
     {
-        path: "/React-",
+        path: "/React-/",
         element: <Layout />,
         loader : Loader,
         children :[
